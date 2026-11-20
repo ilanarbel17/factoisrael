@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://factoisrael.com/sitemap.xml
